@@ -22,8 +22,8 @@ Standard linear convolution often compromises critical structural details, blurr
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>💻 Tkinter Interface</b><br><img src="p1.png" width="300" alt=" UI Screenshot 1.png "/></td>
-      <td align="center"><b>📊 MSE Comparison</b><br><img src="p3.png" width="300" alt=" 2.png "/></td>
+<td align="center"><b>💻 Tkinter Interface</b><br><img src="UI Screenshot 1.png" width="300" alt="UI Screenshot 1"/></td>
+<td align="center"><b>📊 MSE Comparison</b><br><img src="2.png" width="300" alt="MSE Comparison Screenshot"/></td>
     </tr>
   </table>
 </div>
