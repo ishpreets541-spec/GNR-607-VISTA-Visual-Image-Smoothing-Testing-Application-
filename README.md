@@ -60,3 +60,12 @@ VISTA-filter-bench/
 ├── main.py                # Main application script containing UI routing and VISTA filter logic[cite: 1]
 ├── requirements.txt       # Python environment dependencies (numpy, Pillow, matplotlib)
 └── README.md              # Project documentation and theoretical background
+
+# 👩‍💻 Author
+
+**Ishpreet Singh**
+
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
