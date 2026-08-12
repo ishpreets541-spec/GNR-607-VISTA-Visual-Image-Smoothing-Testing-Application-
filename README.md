@@ -23,8 +23,7 @@ Standard linear convolution often compromises critical structural details, blurr
   <table>
     <tr>
       <td align="center"><b>💻 Tkinter Interface</b><br><img src="p1.png" width="300" alt="UI Screenshot 1.png"/></td>
-      <td align="center"><b>🌫️ Noise Injection</b><br><img src="p2.png" width="300" alt="Noise Screenshot 2"/></td>
-      <td align="center"><b>📊 MSE Comparison</b><br><img src="p3.png" width="300" alt="MSE Screenshot 3"/></td>
+      <td align="center"><b>📊 MSE Comparison</b><br><img src="p3.png" width="300" alt="2.png"/></td>
     </tr>
   </table>
 </div>
