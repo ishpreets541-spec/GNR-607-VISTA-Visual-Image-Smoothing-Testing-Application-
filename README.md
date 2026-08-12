@@ -51,6 +51,15 @@ $$MSE = \frac{1}{n} \sum (Y - \hat{Y})^2$$
 | **Visualization** | `matplotlib.pyplot` | Renders the subplot comparison grid and dynamically overlays the statistical MSE text[cite: 1]. |
 
 ---
+### 👩‍💻 Author
+
+**Ishpreet Singh**
+
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
+---
 
 ## 📂 Project Structure
 
@@ -60,12 +69,7 @@ VISTA-filter-bench/
 ├── main.py                # Main application script containing UI routing and VISTA filter logic[cite: 1]
 ├── requirements.txt       # Python environment dependencies (numpy, Pillow, matplotlib)
 └── README.md              # Project documentation and theoretical background
+---
+---
 
-# 👩‍💻 Author
 
-**Ishpreet Singh**
-
-M.Tech
-Indian Institute of Technology Bombay
-Mail ID:
-25m0326@iitb.ac.in
